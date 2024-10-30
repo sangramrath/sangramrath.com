@@ -9,7 +9,7 @@ const mainSectionData = {
     slug: 'profile',
     visible: true,
   },
-  image: import('@/assets/my-image.jpg'),
+  image: import('@/assets/my-image.jpeg'),
   fullName: 'Sangram Rath',
   role: 'Cloud Architect & Technology Advisor',
   details: [
